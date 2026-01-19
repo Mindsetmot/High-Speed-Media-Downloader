@@ -25,4 +25,4 @@
 Jalankan perintah ini untuk menginstal `hmd` beserta semua dependencies secara otomatis:
 
 ```bash
-curl -L [https://github.com/Mindsetmot/High-Speed-Media-Downloader/raw/main/install.sh](https://github.com/Mindsetmot/High-Speed-Media-Downloader/raw/main/install.sh) | bash
+curl -L https://github.com/Mindsetmot/High-Speed-Media-Downloader/raw/main/install.sh | bash
