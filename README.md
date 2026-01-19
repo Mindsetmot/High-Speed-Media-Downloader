@@ -22,11 +22,7 @@
 
 ### 📥 Quick Installation
 
-Jalankan perintah satu baris berikut untuk menginstal HMD secara otomatis:
-
-### 📥 Quick Installation
-
-Jalankan perintah ini untuk menginstal HMD beserta semua dependencies secara otomatis:
+Jalankan perintah ini untuk menginstal `hmd` beserta semua dependencies secara otomatis:
 
 ```bash
 curl -L [https://github.com/Mindsetmot/High-Speed-Media-Downloader/raw/main/install.sh](https://github.com/Mindsetmot/High-Speed-Media-Downloader/raw/main/install.sh) | bash
