@@ -18,6 +18,7 @@ echo -e "${YELLOW}[3/3] Mengunduh binary HMD...${NC}"
 curl -L -o $PREFIX/bin/hmd https://github.com/Mindsetmot/High-Speed-Media-Downloader/raw/main/hmd
 
 chmod +x $PREFIX/bin/hmd
+termux-setup-storage
 
 echo -e "\n${GREEN}[✓] Instalasi Selesai!${NC}"
 echo -e "${GREEN}[i] Ketik 'hmd' untuk menjalankan tool.${NC}"
